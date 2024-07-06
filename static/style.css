@@ -1,0 +1,11 @@
+
+.body{
+    background-color:aliceblue
+}
+.form-label{
+    font-weight: bold;
+}
+.btn-outline-success{
+    background-color: white;
+    font-weight: bold;
+}
